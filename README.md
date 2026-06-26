@@ -66,13 +66,6 @@
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   />
-  <img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  />
 </p>
 
 <br><br><br>
@@ -81,17 +74,15 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardosca)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosca166@gmail.com)
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoSCA16&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSCA16&layout=compact&theme=github_dark&hide_border=true"/>
 
