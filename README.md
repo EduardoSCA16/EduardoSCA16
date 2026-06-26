@@ -1,8 +1,7 @@
 # Olá! Me chamo Eduardo Almeida 👋
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Back-end.
-- 📚 Atualmente estudando Python, Java, Banco de Dados e Git.
+- 💻 Estudante de Engenharia de Software.
+- 🚀 Futuro Full-Stack Developer.
 - 🎯 Sempre desenvolvendo projetos para aprimorar minhas habilidades.
 
 ---
@@ -74,6 +73,7 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardosca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosca/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosca166@gmail.com)
+
