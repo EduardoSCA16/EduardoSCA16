@@ -11,13 +11,6 @@
 <p>
   <img
     align="left"
-    alt="Python"
-    title="Python"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-  <img
-    align="left"
     alt="Java"
     title="Java"
     width="40px"
@@ -25,17 +18,10 @@
   />
   <img
     align="left"
-    alt="C"
-    title="C"
+    alt="Python"
+    title="Python"
     width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-  />
-  <img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
   <img
     align="left"
@@ -43,6 +29,13 @@
     title="PostgreSQL"
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+  />
+  <img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   />
   <img
     align="left"
