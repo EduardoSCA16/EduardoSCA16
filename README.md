@@ -10,7 +10,7 @@
 ## 💻 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,html,css,git,github,maven,idea,eclipse,vscode" />
 </p>
 
 ---
